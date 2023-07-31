@@ -1,5 +1,6 @@
 # FlutterFlappyBird
 ### FlappyBird using flutter
+<img src = "[FlappyBird] .png" alt = "GameScreen" width="1280px" height = "500px">
 
 ## 프로젝트 요약
 ![Langauge:Dart](https://img.shields.io/badge/Language-Flutter-blue) ![platform:CrossPlatForm](https://img.shields.io/badge/Platform-CrossPlatfrom-blue)
